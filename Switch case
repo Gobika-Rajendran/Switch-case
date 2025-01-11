@@ -37,3 +37,7 @@ class Main {
         System.out.println("Size: " + size);
     }
 }
+
+OUTPUT:
+Size: Large
+
